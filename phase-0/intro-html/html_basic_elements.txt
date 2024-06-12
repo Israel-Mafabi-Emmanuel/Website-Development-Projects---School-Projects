@@ -1,0 +1,18 @@
+HTML Has three basic(primary) elements
+- html <html></html>
+- head <head></head>
+- body <body></body>
+
+structure: 
+    - html
+        - head
+        - body
+
+head section: 
+    - The head section in a html document - contains meta data for The
+    html page - page information.
+        such as:
+            - page title
+            - language specification
+            - device compatibility
+            - external dependencies: stylesheets, javascripts
