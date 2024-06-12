@@ -5,16 +5,16 @@
     "passes": 2,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-12T18:02:59.203Z",
-    "end": "2024-06-12T18:02:59.217Z",
-    "duration": 14
+    "start": "2024-06-12T18:04:33.235Z",
+    "end": "2024-06-12T18:04:33.250Z",
+    "duration": 15
   },
   "tests": [
     {
       "title": "has a <h1> element",
       "fullTitle": "index.html has a <h1> element",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_heading_tags\\test\\index-test.js",
-      "duration": 7,
+      "duration": 6,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -23,7 +23,7 @@
       "title": "contains the text \"Hello, World!\"",
       "fullTitle": "index.html the <h1> element contains the text \"Hello, World!\"",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_heading_tags\\test\\index-test.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -36,7 +36,7 @@
       "title": "has a <h1> element",
       "fullTitle": "index.html has a <h1> element",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_heading_tags\\test\\index-test.js",
-      "duration": 7,
+      "duration": 6,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -45,7 +45,7 @@
       "title": "contains the text \"Hello, World!\"",
       "fullTitle": "index.html the <h1> element contains the text \"Hello, World!\"",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_heading_tags\\test\\index-test.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
