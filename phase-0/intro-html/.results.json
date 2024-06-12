@@ -1,15 +1,42 @@
 {
   "stats": {
-    "suites": 4,
-    "tests": 7,
-    "passes": 7,
+    "suites": 5,
+    "tests": 10,
+    "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-12T17:35:37.641Z",
-    "end": "2024-06-12T17:35:37.809Z",
-    "duration": 168
+    "start": "2024-06-12T18:14:39.092Z",
+    "end": "2024-06-12T18:14:39.246Z",
+    "duration": 154
   },
   "tests": [
+    {
+      "title": "contains an <a> tag",
+      "fullTitle": "index.html contains an <a> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\anchor_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the text content of 'Moringa School'",
+      "fullTitle": "index.html has the text content of 'Moringa School'",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\anchor_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the href attribute of 'https://moringaschool.com/'",
+      "fullTitle": "index.html has the href attribute of 'https://moringaschool.com/'",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\anchor_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
     {
       "title": "has a DOCTYPE tag",
       "fullTitle": "index.html valid document structure has a DOCTYPE tag",
@@ -23,7 +50,7 @@
       "title": "has opening and closing HTML tags",
       "fullTitle": "index.html valid document structure has opening and closing HTML tags",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -32,7 +59,7 @@
       "title": "has <head> and <body> tags nested in the <html> tag",
       "fullTitle": "index.html valid document structure has <head> and <body> tags nested in the <html> tag",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -59,7 +86,7 @@
       "title": "has a <title> tag to enclose the site title",
       "fullTitle": "index.html valid <head> structure has a <title> tag to enclose the site title",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -68,7 +95,7 @@
       "title": "has a valid HTML structure",
       "fullTitle": "index.html valid html has a valid HTML structure",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 153,
+      "duration": 138,
       "currentRetry": 0,
       "speed": "slow",
       "err": {}
@@ -78,6 +105,33 @@
   "failures": [],
   "passes": [
     {
+      "title": "contains an <a> tag",
+      "fullTitle": "index.html contains an <a> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\anchor_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the text content of 'Moringa School'",
+      "fullTitle": "index.html has the text content of 'Moringa School'",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\anchor_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the href attribute of 'https://moringaschool.com/'",
+      "fullTitle": "index.html has the href attribute of 'https://moringaschool.com/'",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\anchor_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
       "title": "has a DOCTYPE tag",
       "fullTitle": "index.html valid document structure has a DOCTYPE tag",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
@@ -90,7 +144,7 @@
       "title": "has opening and closing HTML tags",
       "fullTitle": "index.html valid document structure has opening and closing HTML tags",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 2,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -99,7 +153,7 @@
       "title": "has <head> and <body> tags nested in the <html> tag",
       "fullTitle": "index.html valid document structure has <head> and <body> tags nested in the <html> tag",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -126,7 +180,7 @@
       "title": "has a <title> tag to enclose the site title",
       "fullTitle": "index.html valid <head> structure has a <title> tag to enclose the site title",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -135,7 +189,7 @@
       "title": "has a valid HTML structure",
       "fullTitle": "index.html valid html has a valid HTML structure",
       "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\intro-html\\test\\index_test.js",
-      "duration": 153,
+      "duration": 138,
       "currentRetry": 0,
       "speed": "slow",
       "err": {}
