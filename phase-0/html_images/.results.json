@@ -1,0 +1,126 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-13T18:16:29.529Z",
+    "end": "2024-06-13T18:16:29.551Z",
+    "duration": 22
+  },
+  "tests": [
+    {
+      "title": "exists in the HTML file",
+      "fullTitle": "the first <img> exists in the HTML file",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 6,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid src attribute",
+      "fullTitle": "the first <img> has a valid src attribute",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists in the HTML file",
+      "fullTitle": "the second <img> exists in the HTML file",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has valid src and alt attributes",
+      "fullTitle": "the second <img> has valid src and alt attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists in the HTML file",
+      "fullTitle": "the third <img> exists in the HTML file",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has valid src, alt and title attributes",
+      "fullTitle": "the third <img> has valid src, alt and title attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "exists in the HTML file",
+      "fullTitle": "the first <img> exists in the HTML file",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 6,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid src attribute",
+      "fullTitle": "the first <img> has a valid src attribute",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists in the HTML file",
+      "fullTitle": "the second <img> exists in the HTML file",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has valid src and alt attributes",
+      "fullTitle": "the second <img> has valid src and alt attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "exists in the HTML file",
+      "fullTitle": "the third <img> exists in the HTML file",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has valid src, alt and title attributes",
+      "fullTitle": "the third <img> has valid src, alt and title attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_images\\test\\image_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
