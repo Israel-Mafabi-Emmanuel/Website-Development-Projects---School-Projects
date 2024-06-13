@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-13T18:04:48.102Z",
+    "end": "2024-06-13T18:04:48.162Z",
+    "duration": 60
+  },
+  "tests": [
+    {
+      "title": "exists in the HTML document",
+      "fullTitle": "<table> exists in the HTML document",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 7,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has five rows",
+      "fullTitle": "<table> has five rows",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct headers",
+      "fullTitle": "<table> has the correct headers",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about New York City",
+      "fullTitle": "<table> has the correct information about New York City",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about Los Angeles",
+      "fullTitle": "<table> has the correct information about Los Angeles",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about Chicago",
+      "fullTitle": "<table> has the correct information about Chicago",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about Houston",
+      "fullTitle": "<table> has the correct information about Houston",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "exists in the HTML document",
+      "fullTitle": "<table> exists in the HTML document",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 7,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has five rows",
+      "fullTitle": "<table> has five rows",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct headers",
+      "fullTitle": "<table> has the correct headers",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about New York City",
+      "fullTitle": "<table> has the correct information about New York City",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about Los Angeles",
+      "fullTitle": "<table> has the correct information about Los Angeles",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about Chicago",
+      "fullTitle": "<table> has the correct information about Chicago",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has the correct information about Houston",
+      "fullTitle": "<table> has the correct information about Houston",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\html_tables\\test\\table_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
