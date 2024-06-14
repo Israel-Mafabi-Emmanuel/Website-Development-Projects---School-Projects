@@ -5,54 +5,47 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>INTRODUCTION TO HTML: Sample Blog Webpage</title>
         <link rel="stylesheet" href="style.css">
-
-        <style>
-            * {
-                /* My Comment */
-                /*color: blue;*/
-                padding: 0;
-                margin: 0;
-            } 
-
-            #blog_title {
-                color: green;
-            }
-        </style>
     </head>
     <body>
         <!-- COMMENT: HEADER, BLOG -->
         <section class="heading"> 
-            <h1 id="blog_title">Daily News Blog</h1>
-            <p class="info_text">More information, More knowledge</p>
+            <h1 class="blog_title">Daily News Blog</h1>
+            <!-- style="color: orange;" an inline style -->
+            <p class="info_text" style="color: orange;">More information, More knowledge</p>
         </section>
-        <hr>
         <!-- COMMENT: BLOG -->
         <section class="blog">
-            <h2>News Blog: </h2>
+            <h2 class="blog_title">News Blog</h2>
             <div class="container">
                 <!-- Parent div, -->
                 <div class="content">
-                    <h4>Handworks</h4>
-                    <img src="https://plus.unsplash.com/premium_photo-1711393510897-128d4fe28f05?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                    alt="blog-image" width="30%">
-                    <p class="description">A group of people standing around a table covered in yellow cloth.</p>
-                    <a href="https://unsplash.com/photos/a-group-of-people-standing-around-a-table-covered-in-yellow-cloth-Q2lx1XGvdq8" target="_blank">Image citation</a>
-                    <p>Author: Israel Mafabi Emmanuel, <span>Publish Date: 6/13/2024</span></p>
+                    <div class="content_image">
+                        <h4>Handworks</h4>
+                        <img src="https://plus.unsplash.com/premium_photo-1711393510897-128d4fe28f05?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        alt="blog-image" width="30%">
+                        <p class="description">A group of people standing around a table covered in yellow cloth.</p>
+                    </div>
+                    <div class="content_image_description">
+                        <a href="https://unsplash.com/photos/a-group-of-people-standing-around-a-table-covered-in-yellow-cloth-Q2lx1XGvdq8" target="_blank">Image citation</a>
+                        <p>Author: Israel Mafabi Emmanuel</p>
+                        <p>Publish Date: 6/13/2024</p>
+                    </div>
                 </div>
-                <hr>
                 <div class="content">
-                    <h4>Integrity Centre</h4>
-                    <img src="assets/integrity-centre.webp" alt="blog-image" width="30%">
-                    <p class="description">11 Vihiga County Officials Arrested Over Loss Of Ksh17M Meant For Blood Transfusion Centre.</p>
-                    <a href="https://www.citizen.digital/news/11-vihiga-county-officials-arrested-over-loss-of-ksh17m-meant-for-blood-transfusion-centre-n343898" target="_blank">Image citation</a>
-                    <p>Author: Citizen Digital, <span>Publish Date: 6/13/2024</span></p>
+                    <div class="content_image">
+                        <h4>Integrity Centre</h4>
+                        <img src="assets/integrity-centre.webp" alt="blog-image" width="30%">
+                        <p class="description">11 Vihiga County Officials Arrested Over Loss Of Ksh17M Meant For Blood Transfusion Centre.</p>
+                    </div>
+                    <div class="content_image_description">
+                        <a href="https://www.citizen.digital/news/11-vihiga-county-officials-arrested-over-loss-of-ksh17m-meant-for-blood-transfusion-centre-n343898" target="_blank">Image citation</a>
+                        <p>Author: Citizen Digital</p>
+                        <p>Publish Date: 6/13/2024</p>
+                    </div>
                 </div>
             </div>
         </section>
-        <hr>
         <!-- COMMENT: FOOTER, BLOG -->
-        <footer>
-            Sample Blog Page, By Israel Mafabi Emmanuel
-        </footer>
+        <footer class="blog_footer"><p>Sample Blog Page, By Israel Mafabi Emmanuel</p></footer>
     </body>
 </html>
