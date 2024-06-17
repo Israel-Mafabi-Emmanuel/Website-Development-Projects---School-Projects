@@ -1,0 +1,126 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-17T14:49:05.124Z",
+    "end": "2024-06-17T14:49:05.140Z",
+    "duration": 16
+  },
+  "tests": [
+    {
+      "title": "has a <h1> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h2> element with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <h3> elements with the correct content",
+      "fullTitle": "index.html the content section has three <h3> elements with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <p> elements with the correct content",
+      "fullTitle": "index.html the content section has three <p> elements with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <img> elements with the correct attributes",
+      "fullTitle": "index.html the content section has three <img> elements with the correct attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has two <a> elements with the correct attributes",
+      "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a <h1> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h2> element with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <h3> elements with the correct content",
+      "fullTitle": "index.html the content section has three <h3> elements with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <p> elements with the correct content",
+      "fullTitle": "index.html the content section has three <p> elements with the correct content",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <img> elements with the correct attributes",
+      "fullTitle": "index.html the content section has three <img> elements with the correct attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has two <a> elements with the correct attributes",
+      "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0\\riyadh_blog\\test\\blog_test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}

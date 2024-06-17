@@ -1,0 +1,121 @@
+/*
+    GLORY BE TO GOD,
+    Riyadh Blog Sample,
+    By Israel Mafabi Emmanuel
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Gabriela);
+
+* {
+    font-family: Gabriela, Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+
+    transition: 500ms;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.85);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(79,79,79);
+}
+
+::-webkit-scrollbar-button {
+    background-color: rgb(35, 35, 35);
+}
+
+html, body {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    background: url(images/backgrounds/architecture.jpg) center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 100%;
+
+    .blog_wrapper {
+        padding-bottom: 40px;
+        margin: 0 auto;
+        width: 60%;
+
+        .blog_header {
+            font-size: 3.5em;
+        }
+
+        .blog_subhead {
+            font-size: 1.5em;
+            margin-bottom: .5em;
+        }
+
+        .blog_intro_subhead {
+            font-size: 1.5em;
+            margin-top: .5em;
+        }
+
+        .blog_header, .blog_subhead {
+            color: white;
+        }
+
+        .blog_content {
+            background: rgba(255, 255, 255, .85);
+            border-radius: 14px;
+            padding: 20px;
+
+            .blog_image {
+                border-radius: 14px;
+
+                margin-top: 4px;
+                margin-bottom: 4px;
+
+                width: 100%;
+                max-width: 100%;
+                height: auto;
+            }
+
+            .blog_text {
+                font-size: 1em;
+            }
+
+            .blog_link {
+                color: black;
+                text-decoration: none;
+            }
+
+            .blog_link:hover {
+                color: rgb(20, 130, 233);
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .blog_wrapper {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 748px) {
+    body {
+        font-size: 120%;
+
+        .blog_header {
+            font-size: 2.5em;
+        }
+
+        .blog_subhead {
+            font-size: 1em;
+        }
+
+        .blog_wrapper {
+            width: 95%;
+        }
+    }
+}
