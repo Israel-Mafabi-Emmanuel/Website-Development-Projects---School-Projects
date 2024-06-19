@@ -42,4 +42,3 @@ console.log(person.symbol_1, person.symbol_2);
 // using = for assignment
 // using == for normal comparison  -> for value only, brings about type conversion
 // using === for strict comparison -> for both value and type
-
