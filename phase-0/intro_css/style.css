@@ -2,5 +2,15 @@
     GLORY BE TO GOD,
     Introduction to CSS,
     By Israel Mafabi Emmanuel
+
+    - CSS Practise
 */
 
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+}
