@@ -1,0 +1,49 @@
+/*
+    GLORY BE TO GOD,
+    CSS PRACTICE - THE BOX MODEL,
+    By Israel Mafabi Emmanuel
+*/
+
+* {
+    transition: 500ms;
+
+    box-sizing: border-box;
+
+    margin: 0px auto;
+    padding: 0px;
+
+    user-select: none;
+}
+
+body {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+
+    .my_element {
+        background-color: rgb(39, 128, 133);
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        text-transform: uppercase;
+
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+
+        margin: 14px;
+        border: 14px solid green;
+        padding: 14px;
+
+        width: 400px;
+        min-width: 400px;
+
+        height: 400px;
+        min-height: 400px;
+    }
+}
