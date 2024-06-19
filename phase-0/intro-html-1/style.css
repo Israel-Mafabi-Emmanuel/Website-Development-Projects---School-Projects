@@ -37,6 +37,7 @@ body {
 
         .info_text {
             padding: 4px;
+            text-transform: capitalize;
         }
     }
 
