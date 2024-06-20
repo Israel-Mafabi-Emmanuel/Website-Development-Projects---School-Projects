@@ -12,7 +12,7 @@
     C  => 60 - 65
 */
 
-let marks = 99;
+let marks = 100;
 
 if(marks >= 85 && marks <= 100) {
     console.log(" You got an A");
@@ -25,5 +25,9 @@ if(marks >= 85 && marks <= 100) {
 } else if(marks >= 60 && marks < 65) {
     console.log(" You got a C");
 } else {
-    console.log(" That's a fail!");
+    if(marks < 0 || marks > 100) {
+        console.log(" Value out of range!");
+    } else {
+        console.log(" That's a fail!");
+    }
 }
